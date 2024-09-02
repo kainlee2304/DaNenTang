@@ -49,9 +49,7 @@ This lab exercise provided a foundational understanding of Flutter for cross-pla
 
 For future work, it is recommended to explore more advanced Flutter features, such as state management, navigation, and platform-specific integrations, to build more complex and responsive mobile applications.
 
----
 
-This report should fit within 2 A4 pages when properly formatted, including the screenshots.
 
 ## Getting Started
 
